@@ -18,8 +18,7 @@
                 "driver": "MySQL",
                 "name": "Vultr-R0",
                 "database": "world",
-                "username": "nimdas",
-                "password": "FormR!1234"
+                "username": "nimdas"
             }
         ]
     },
